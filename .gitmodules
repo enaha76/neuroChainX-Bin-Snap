@@ -1,0 +1,6 @@
+[submodule "modules/user-app-bin"]
+	path = modules/user-app-bin
+	url = git@github.com:enaha76/user-app-bin.git
+[submodule "modules/admin-dashboear-cibe"]
+	path = modules/admin-dashboear-cibe
+	url = git@github.com:enaha76/admin-dashboear-cibe.git
